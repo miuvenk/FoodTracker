@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QAZek4Jh0HL1qn4MbVfASJrWSj8tvpzpjyrcomGXlRM=",
+  "Source": "foodtracker",
+  "BasePath": "_content/foodtracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

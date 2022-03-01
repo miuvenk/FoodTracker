@@ -1,0 +1,36 @@
+.App {
+  background-color: #4b101a;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.headerImage{
+  display: flex;
+  justify-content: stretch;
+  width : 100% ;
+  height: 300px;
+  object-fit: cover ;
+}
+
+.header1 {
+  font-size:80px;
+  font-weight: bold;
+  background-color: #44101985;
+  color: rgb(219, 211, 211);
+  text-align: center;
+  margin-top: -95px;
+}
+
+.buttonContainer{
+  flex-direction : row;
+  display: flex;
+  padding-left: 20px;
+}
+
+.resList{
+  padding-top: 10px;
+}
+
